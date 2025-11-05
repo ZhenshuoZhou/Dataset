@@ -1,1 +1,1 @@
-Detailed information and access to the dataset used in the generalization experiments are available at:
+Owing to the file size constraints imposed by GitHub, the ‘image’ folder includes only representative images from the generalization experiments datasets. Detailed information and complete access to the full dataset can be obtained from:
